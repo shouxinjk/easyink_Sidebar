@@ -1,5 +1,5 @@
 const path = require('path');
-const DEV_PORT = 8082;
+const DEV_PORT = 9002;
 const resolve = (dir) => {
   return path.join(__dirname, dir);
 };
